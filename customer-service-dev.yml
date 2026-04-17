@@ -5,7 +5,7 @@ server:
 message: Hello from Dev!
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/order_dev
+    url: jdbc:postgresql://localhost:5432/customer_master
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
